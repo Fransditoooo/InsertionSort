@@ -41,7 +41,7 @@ int j, i; // Membuat variable j sebagai penanda
 for  (i = 1; i <= n - 1; i++)
 { // Step 1
 
-temp = arr[i]; // step 2
+temp = arr[i]; // Step 2
 }
 
 }
